@@ -40,7 +40,7 @@ local function detectExploit()
         "Vega x",
         "Trigon",
         "Evon",
-        "Krampus",
+        "Forlorn",
         "Codex",
         "Delta",
         "Hydrogen",
